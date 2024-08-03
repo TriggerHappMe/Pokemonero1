@@ -1,10 +1,4 @@
-# Eckmar (Eckmar's Marketplace Script)
-[![GitHub stars](https://img.shields.io/github/stars/dclipca/eckmar)](https://github.com/dclipca/eckmar/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dclipca/eckmar)](https://github.com/dclipca/eckmar/network)
-[![GitHub issues](https://img.shields.io/github/issues/dclipca/eckmar)](https://github.com/dclipca/eckmar/issues)
-![](https://img.shields.io/github/license/eckmarcommunity/eckmar)
-
-![](https://github.com/nomiac-mobile/peralta/blob/master/demo/eckmar-background.jpg)
+# Pokemonero
 
 Eckmar is an open-source, cryptocurrency-friendly marketplace built on Laravel. If you made any kind of improvements, please consider making a pull request.
 
