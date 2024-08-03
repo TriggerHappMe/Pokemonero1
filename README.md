@@ -1,8 +1,8 @@
-# Pokemonero
+# PokeMonero
 
-Eckmar is an open-source, cryptocurrency-friendly marketplace built on Laravel. If you made any kind of improvements, please consider making a pull request.
+PokeMonero is an open-source, cryptocurrency-friendly Pokemon marketplace built on Laravel.
 
-![](https://github.com/nomiac-mobile/peralta/blob/master/demo/website.jpg)
+
 
 # [Installation](https://github.com/nomiac-mobile/peralta/blob/master/INSTALLATION.md)
 # [Connecting Coins (In Progress)](https://github.com/nomiac-mobile/peralta/blob/master/CONNECTING-COINS.md)
