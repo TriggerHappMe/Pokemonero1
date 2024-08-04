@@ -260,7 +260,7 @@ sudo chgrp -R www-data /var/www/pokemonero/storage/public/products
 ```
 sudo chmod -R ug+rwx /var/www/pokemonero/storage/public/products
 ```
-(Above code are 3 commands)
+(Above code are 3 commands.)
 
 # Nginx Config
 
