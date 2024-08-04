@@ -302,9 +302,9 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 # Installation
 
-After everything above is done, change current directory to the directory name you previously chose (I used **eckmar**) and run series of commands to install all required dependencies:
+After everything above is done, change current directory to the directory name you previously chose (I used **pokemonero**) and run series of commands to install all required dependencies:
 ```
-cd /var/www/eckmar
+cd /var/www/pokemonero
 ```
 ```
 composer install
